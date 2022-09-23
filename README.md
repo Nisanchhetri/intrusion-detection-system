@@ -1,7 +1,7 @@
-intrusion-internal
+intrusion-detection-system
 ==============================
 
-network classification
+deep learning based network classification system that classifies network traffic to either benign or malware
 
 Project Organization
 ------------
